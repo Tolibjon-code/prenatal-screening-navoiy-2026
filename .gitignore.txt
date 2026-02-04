@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
+
+# Virtual Environment
+myenv/
+.env
+.env.local
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache
+*.pyc
+*.pyd
+*.pyo
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.json
+
+# Testing
+.coverage
+.pytest_cache/
